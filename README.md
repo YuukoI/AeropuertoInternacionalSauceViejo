@@ -8,3 +8,6 @@ https://docs.google.com/document/d/1RjfvE3WtLvdVpsHe4fk2_ezcyfKg-xPD/edit?usp=sh
 
 Enunciado para el proyecto.
 https://docs.google.com/document/d/1kIKIV7qL8aXmZojCxSOZglvphZJyrY2u/edit?usp=sharing&ouid=107552105633981259798&rtpof=true&sd=true
+
+Instructivo de uso:
+https://docs.google.com/document/d/1nFFeJEuvZoC1GLxdx4jvSEb8Jf0xslJ-/edit?usp=sharing&ouid=107552105633981259798&rtpof=true&sd=true
